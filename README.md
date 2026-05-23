@@ -2,7 +2,7 @@
 
 Software developer based in Puerto Rico. CS graduate from UPRB with a background in full-stack development, currently working in the fintech industry while actively pursuing software development roles.
 
-I like building things that solve real problems — whether that's automating repetitive work, building out web applications, or shipping mobile apps.
+I like building things that solve real problems: whether that's automating repetitive work, building out web applications, or shipping mobile apps.
 
 ---
 
@@ -33,16 +33,16 @@ I like building things that solve real problems — whether that's automating re
 ## 📌 Projects
 
 **[agenda-os](https://github.com/EduardoTorresAlamo/agenda-os)**
-Multi-tenant barbershop SaaS. Customers book appointments entirely via WhatsApp — no app download required. Built with Next.js 16, Supabase, and the Meta WhatsApp Business API.
+Multi-tenant barbershop SaaS. Customers book appointments entirely via WhatsApp: no app download required. Built with Next.js 16, Supabase, and the Meta WhatsApp Business API.
 
 **[Really-CRM](https://github.com/EduardoTorresAlamo/Really-CRM)**
 CRM for real estate agents. Includes client management, AI-powered property matching with Claude, and automated email follow-ups via Resend.
 
 **[Thread Vault](https://github.com/EduardoTorresAlamo/thread-vault)**
-iOS AI content vault. Save URLs, images, and text via the Share Sheet — Gemma 4 runs on-device classification; Gemini and OpenAI available as cloud backends. Built with Swift 6 strict concurrency and SwiftData.
+iOS AI content vault. Save URLs, images, and text via the Share Sheet: Gemma 4 runs on-device classification; Gemini and OpenAI available as cloud backends. Built with Swift 6 strict concurrency and SwiftData.
 
 **[PocketPay](https://github.com/EduardoTorresAlamo/PocketPay)**
-iOS P2P payments app with biometric auth, a custom numeric keypad, and Stripe integration. Ships with mock mode on by default — no Stripe account needed to run it.
+iOS P2P payments app with biometric auth, a custom numeric keypad, and Stripe integration. Ships with mock mode on by default: no Stripe account needed to run it.
 
 **[Roamly](https://github.com/EduardoTorresAlamo/Roamly)**
 Travel planning app. Create trips, pin locations on an interactive map, and browse nearby points of interest via Overpass API. Built with React 19, Vite, and Tailwind CSS.
