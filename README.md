@@ -1,8 +1,8 @@
 # Hi, I'm Eduardo 👋
 
-Software developer based in Puerto Rico. CS graduate from UPRB with a background in full-stack development, currently working in the fintech industry while actively pursuing software development roles.
+Software developer based in Puerto Rico. B.S. Computer Science from UPRB (2026). Full-stack and iOS developer, currently supporting a production payments platform while shipping apps in Swift and TypeScript.
 
-I like building things that solve real problems: whether that's automating repetitive work, building out web applications, or shipping mobile apps.
+I build things that solve real problems: a WhatsApp booking bot for a barbershop, an AI property matcher for realtors, a P2P payments app for iOS.
 
 ---
 
@@ -32,32 +32,35 @@ I like building things that solve real problems: whether that's automating repet
 
 ## 📌 Projects
 
-**[agenda-os](https://github.com/EduardoTorresAlamo/agenda-os)**
-Multi-tenant barbershop SaaS. Customers book appointments entirely via WhatsApp: no app download required. Built with Next.js 16, Supabase, and the Meta WhatsApp Business API.
+**[agenda-os](https://barbershop-turnos.vercel.app)** — live demo
+Multi-tenant barbershop SaaS. Customers book via WhatsApp with no app download required. Built with Next.js 16, Supabase, and the Meta WhatsApp Business API.
 
 **[Really-CRM](https://github.com/EduardoTorresAlamo/Really-CRM)**
-CRM for real estate agents. Includes client management, AI-powered property matching with Claude, and automated email follow-ups via Resend.
+CRM for real estate agents. Client management, AI-powered property matching with Claude, and automated email follow-up sequences via Resend.
 
 **[Thread Vault](https://github.com/EduardoTorresAlamo/thread-vault)**
-iOS AI content vault. Save URLs, images, and text via the Share Sheet: Gemma 4 runs on-device classification; Gemini and OpenAI available as cloud backends. Built with Swift 6 strict concurrency and SwiftData.
+iOS AI content vault. Save anything via the Share Sheet. Gemma 4 runs on-device classification; Gemini available as a cloud backend. Swift 6 strict concurrency, SwiftData.
 
 **[PocketPay](https://github.com/EduardoTorresAlamo/PocketPay)**
-iOS P2P payments app with biometric auth, a custom numeric keypad, and Stripe integration. Ships with mock mode on by default: no Stripe account needed to run it.
+iOS P2P payments app with biometric auth, a custom numeric keypad, and Stripe integration. Mock mode on by default, no Stripe account needed to run it.
 
 **[Roamly](https://github.com/EduardoTorresAlamo/Roamly)**
-Travel planning app. Create trips, pin locations on an interactive map, and browse nearby points of interest via Overpass API. Built with React 19, Vite, and Tailwind CSS.
+Travel planning app. Create trips, pin locations on an interactive map, browse nearby POIs via Overpass API. React 19 + Vite + Tailwind CSS.
 
 **[Task-Flow](https://github.com/EduardoTorresAlamo/Task-Flow)**
-iOS task manager built with SwiftUI and SwiftData. Integrates with Calendar and Reminders via EventKit. Swift 6 strict concurrency throughout.
+iOS task manager with natural language input, EventKit calendar sync, and SwiftData persistence. Swift 6 strict concurrency throughout.
+
+**[CodeFlow](https://codeflow-five.vercel.app)** — live demo
+Browser-based GitHub repository dependency graph visualizer. Parses repos and renders interactive dependency trees in the browser.
 
 ---
 
 ## 🔭 Currently
 
-- Working in customer support & onboarding at a fintech company
-- Building out my portfolio and personal projects
-- Shipping iOS and web apps in Swift and TypeScript
-- Open to full-time software development roles
+- Digital Payments Support Specialist at Accepta Payments, San Juan PR
+- Open to full-time software development roles (remote-first)
+- Going deep on AI-native development with Swift, TypeScript, and the Anthropic API
+- B.S. Computer Science, Universidad de Puerto Rico Bayamon, 2026
 
 ---
 
