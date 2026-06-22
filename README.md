@@ -32,7 +32,7 @@ I build things that solve real problems: a WhatsApp booking bot for a barbershop
 
 ## 📌 Projects
 
-**[agenda-os](https://barbershop-turnos.vercel.app)** — live demo
+**[agenda-os](https://agenda-os.app)** — live demo
 Multi-tenant barbershop SaaS. Customers book via WhatsApp with no app download required. Built with Next.js 16, Supabase, and the Meta WhatsApp Business API.
 
 **[Really-CRM](https://github.com/EduardoTorresAlamo/Really-CRM)**
