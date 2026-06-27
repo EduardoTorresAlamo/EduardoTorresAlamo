@@ -35,7 +35,7 @@ I build things that solve real problems: a WhatsApp booking bot for a barbershop
 **[agenda-os](https://agenda-os.app)** — live demo
 Multi-tenant barbershop SaaS. Customers book via WhatsApp with no app download required. Built with Next.js 16, Supabase, and the Meta WhatsApp Business API.
 
-**[Really-CRM](https://github.com/EduardoTorresAlamo/Really-CRM)**
+**[Really-CRM](https://really-crm.vercel.app)** — live demo
 CRM for real estate agents. Client management, AI-powered property matching with Claude, and automated email follow-up sequences via Resend.
 
 **[Thread Vault](https://github.com/EduardoTorresAlamo/thread-vault)**
