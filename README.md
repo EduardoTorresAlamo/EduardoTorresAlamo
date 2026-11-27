@@ -38,8 +38,8 @@ Multi-tenant barbershop SaaS. Customers book via WhatsApp with no app download r
 **[Really-CRM](https://really-crm.vercel.app)** — live demo
 CRM for real estate agents. Client management, AI-powered property matching with Claude, and automated email follow-up sequences via Resend.
 
-**[Thread Vault](https://github.com/EduardoTorresAlamo/thread-vault)**
-iOS AI content vault. Save anything via the Share Sheet. Gemma 4 runs on-device classification; Gemini available as a cloud backend. Swift 6 strict concurrency, SwiftData.
+**[Thread Vault](https://vault.eduardo-torres.com)**
+iOS content vault: save links, images, and notes from the Share Sheet or Siri/Shortcuts. Classification, summaries, and tags run on-device with Apple Intelligence, with no accounts and no server.
 
 **[PocketPay](https://github.com/EduardoTorresAlamo/PocketPay)**
 iOS P2P payments app with biometric auth, a custom numeric keypad, and Stripe integration. Mock mode on by default, no Stripe account needed to run it.
